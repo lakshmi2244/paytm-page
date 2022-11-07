@@ -11,7 +11,7 @@
 }
 .navbar a{
 	font-weight: bold;
-	font-size: 35px;
+	font-size: 18px;
 	text-decoration: none;
 	margin: 0.5%;
 	color: black;
@@ -41,7 +41,7 @@
 	text-align: center;
 	background-color: #f6f6f6;
 	padding: 1%;
-	font-size: 32px;
+	font-size: 18px;
 }
 .sect2{
 	display: flex;
@@ -49,11 +49,11 @@
 	padding: 10% 0% 5% 8%;
 }
 .India{
-	font-size: 100px;
+	font-size: 48px;
 	margin-top: 8%;
 }
 #Recharge{
-	font-size: 32px;
+	font-size: 21px;
 	margin-top: 2%;
 }
 .download{
@@ -64,7 +64,7 @@
 	width: 50%;
 	text-align: center;
 	padding: 2%;
-	font-size: 29px;
+	font-size: 13px;
 	margin-top: 5%;
 }
 .download:hover{
@@ -83,13 +83,13 @@
 	padding: 3%;
 }
 .Paytm-bill{
-	font-size: 70px;
+	font-size: 38px;
 	margin-left: 6%;
 	color: white;
 }
 .Payments{
 	display: flex;
-	font-size: 32px;
+	font-size: 18px;
 	margin-left: 6%;
 	margin-top: 0.8%;
 }
@@ -113,13 +113,13 @@
 	margin-bottom: 0.2%;
 }
 .booking{
-	font-size: 70px;
+	font-size: 38px;
 	margin-left: 6%;
 	color: white;
 }
 .online-booking{
 	display: flex;
-	font-size: 32px;
+	font-size: 18px;
 	margin-left: 6%;
 	margin-top: 0.8%;
 }
@@ -143,7 +143,7 @@
 	margin-bottom: 0.7%;
 }
 .Instruments{
-	font-size: 90px;
+	font-size: 44px;
 	margin-left: 10%;
 	color: black;
 }
@@ -165,11 +165,11 @@
 	display: flex;
 }
 .online{
-	font-size: 65px;
+	font-size: 34px;
 	margin-top: 8%;
 }
 .loadup{
-	font-size: 32px;
+	font-size: 16px;
 	margin-top: 5%;
 	margin-bottom: 8%;
 }
@@ -181,7 +181,7 @@
 	width: 50%;
 	text-align: center;
 	padding: 2%;
-	font-size: 29px;
+	font-size: 13px;
 	margin-right: 5%;
 }
 .download2:hover{
@@ -203,13 +203,13 @@
 	display: flex;
 }
 .account{
-	font-size: 70px;
+	font-size: 44px;
 	margin-top: 8%;
 	font-weight: bold; 
 	margin-top: 1%;
 }
 .make-secure{
-	font-size: 32px;
+	font-size: 17px;
 	margin-top: 5%;
 	margin-bottom: 8%;
 }
@@ -218,10 +218,10 @@
 	background-color: black;
 	border-radius: 50px;
 	border: 1px solid black;
-	width: 60%;
+	width: 50%;
 	text-align: center;
 	padding: 2%;
-	font-size: 29px;
+	font-size: 13px;
 }
 .download3:hover{
 	background-color: white;
@@ -239,12 +239,12 @@
 	margin-top: 6%;
 }
 .waiting{
-	font-size: 70px;
+	font-size: 44px;
 	margin-top: 10%;
 	font-weight: bold;
 }
 .postpaid{
-	font-size: 32px;
+	font-size: 16px;
 	margin-top: 5%;
 	margin-bottom: 10%;
 }
@@ -253,10 +253,10 @@
 	background-color: darkblue;
 	border-radius: 50px;
 	border: 1px solid darkblue;
-	width: 60%;
+	width: 25%;
 	text-align: center;
 	padding: 2%;
-	font-size: 29px;
+	font-size: 19px;
 }
 .learn-more:hover{
 	background-color: skyblue;
@@ -267,7 +267,6 @@
 	display: flex;
 }
 .sect5-4{
-	margin: 1% 0% 1% 0%;
 	background-color: white;
 	margin-left: 5%;
 	border: 1px solid white;
@@ -277,11 +276,11 @@
 }
 .cashback2{
 	font-weight: bold;
-	font-size: 80px;
+	font-size: 44px;
 	margin-top: 7%;
 }
 .hdfc{
-	font-size: 38px;
+	font-size: 18px;
 	margin-top: 5%;
 }
 .image30{
@@ -301,11 +300,11 @@
 }
 .India2{
 	font-weight: bold;
-	font-size: 80px;
+	font-size: 44px;
 	margin-top: 5%;
 }
 .sbi{
-	font-size: 38px;
+	font-size: 18px;
 	margin-top: 5%;
 }
 .image32{
@@ -330,17 +329,17 @@
 	margin-right: 15%;
 }
 .financial{
-	font-size: 90px;
+	font-size: 46px;
 	margin-left: 8%;
 	color: black;
 	padding-top: 6%;
 }
 .India3{
-	font-size: 65px;
+	font-size: 37px;
 	margin-top:5%;
 }
 .bank-offers{
-	font-size: 30px;
+	font-size: 16px;
 	margin-top: 5%;
 }
 .learn-more2{
@@ -351,7 +350,7 @@
 	width: 27%;
 	text-align: center;
 	padding: 2%;
-	font-size: 29px;
+	font-size: 13px;
 	margin-top: 4%;
 }
 .learn-more2:hover{
@@ -368,11 +367,11 @@
 	margin-right: 5%;
 }
 .long-term{
-	font-size: 70px;
+	font-size: 38px;
 	margin-top:6%;
 }
 .investment{
-	font-size: 38px;
+	font-size: 16px;
 	margin-top: 6%;
 }
 .learn-more3{
@@ -383,7 +382,7 @@
 	width: 27%;
 	text-align: center;
 	padding: 2%;
-	font-size: 29px;
+	font-size: 13px;
 	margin-top: 6%;
 }
 .learn-more3:hover{
@@ -401,11 +400,11 @@
 	margin-bottom: 3%;
 }
 .insurance{
-	font-size: 80px;
+	font-size: 48px;
 	margin-top:6%;
 }
 .insurance2{
-	font-size: 39px;
+	font-size: 16px;
 	margin-top: 6%;
 }
 .learn-more4{
@@ -416,7 +415,7 @@
 	width: 27%;
 	text-align: center;
 	padding: 2%;
-	font-size: 29px;
+	font-size: 13px;
 	margin-top: 9%;
 }
 .learn-more4:hover{
@@ -432,11 +431,11 @@
 	padding: 7%;
 }
 .loan{
-	font-size: 66px;
+	font-size: 44px;
 	margin-top:6%;
 }
 .offers{
-	font-size: 36px;
+	font-size: 16px;
 	margin-top: 6%;
 }
 .learn-more5{
@@ -447,7 +446,7 @@
 	width: 27%;
 	text-align: center;
 	padding: 2%;
-	font-size: 29px;
+	font-size: 13px;
 	margin-top: 9%;
 }
 .learn-more5:hover{
@@ -464,7 +463,7 @@
 	margin-bottom: 3%;
 }
 .Business1{
-	font-size: 90px;
+	font-size: 48px;
 	font-weight: bold;
 	margin-left: 11%;
 }
@@ -472,11 +471,11 @@
 	padding-top: 10%;
 }
 .online2{
-	font-size: 60px;
+	font-size: 34px;
 	margin-top:6%;
 }
 .grow{
-	font-size: 38px;
+	font-size: 16px;
 	margin-top: 6%;
 }
 .learn-more6{
@@ -487,7 +486,7 @@
 	width: 27%;
 	text-align: center;
 	padding: 2%;
-	font-size: 29px;
+	font-size: 13px;
 	margin-top: 9%;
 }
 .learn-more6:hover{
@@ -509,11 +508,11 @@
 	padding-top: 6%;
 }
 .in-shop{
-	font-size: 70px;
+	font-size: 48px;
 	font-weight: bold;
 }
 .millions{
-	font-size: 32px;
+	font-size: 16px;
 	margin-top: 6%;
 }
 .learn-more7{
@@ -524,7 +523,7 @@
 	width: 27%;
 	text-align: center;
 	padding: 2%;
-	font-size: 29px;
+	font-size: 13px;
 	margin-top: 9%;
 }
 .learn-more7:hover{
@@ -533,7 +532,7 @@
 	border: 1px solid skyblue;
 }
 .tools{
-	font-size: 80px;
+	font-size: 48px;
 	margin-left: 10%;
 }
 .sect12{
@@ -542,7 +541,7 @@
 	display: flex;
 	justify-content: space-between;
 	margin-left: 6%;
-	font-size: 40px;
+	font-size: 14px;
 }
 
 
